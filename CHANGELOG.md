@@ -9,8 +9,9 @@ Change log itself follows [Keep a CHANGELOG](http://keepachangelog.com) format.
 ## Unreleased
 
 ### Added
-* `Faker.Pizza` [@lauraannwilliams][]
 
+* Customizable random functions [@igas][]
+* `Faker.Pizza` [@lauraannwilliams][]
 * Credo on CI [@igas][]
 * Dialyxir on CI [@igas][]
 * `Faker.String.base64/0` and `Faker.String.base64/1` [@yordis][]
